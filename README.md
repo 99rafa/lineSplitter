@@ -9,7 +9,7 @@ This line splitter function saves you the trouble of dealing with one line CSS f
 
 ## Getting Started
 
-#### Prerequisites
+### Prerequisites
 
 Python3 is required running on Linux, Windows or Mac.
 
@@ -28,7 +28,7 @@ https://github.com/99rafa/lineSplitter
 
 ```
 
-#### Running
+### Running
 
 Open a terminal in the lineSplitter directory and run
 
