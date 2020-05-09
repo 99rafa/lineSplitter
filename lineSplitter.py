@@ -26,12 +26,14 @@ while running:
                 else:
                     output += char
         f.close()
+        print("File splitted succesfully!")
         print("What is the path of the output css file?")
         file = input()
         o = open(file,"w")
         o.write(output)
         o.close()
-        print("File splitted succesfully!")
+        print("File saved succesfully!")
+
 
     else:
         print("Error: File does not exist, try again.")
