@@ -19,16 +19,9 @@ To confirm that you have them installed, open a terminal and type:
 python3 --version
 
 ```
-Then, 
 
-Open a terminal and `Git clone` this repository to your machine
 
-```bash
-https://github.com/99rafa/lineSplitter
-
-```
-
-### Running
+### Run
 
 Open a terminal in the lineSplitter directory and run
 
