@@ -34,7 +34,7 @@ A prompt will appear
 
 ```bash
 
-What is the path of the css file you want to split? (q to exit)
+> What is the path of the css file you want to split? (q to exit)
 
 ```
 
@@ -42,15 +42,15 @@ Enter the name of the file to split and if the file exists, it will popup a mess
 
 
 ```bash
-File splitted succesfully!
-What is the path of the output css file?
+> File splitted succesfully!
+> What is the path of the output css file?
 
 ```
 
 Choose a destiny to the splitted file and a message will appear
 
 ```bash
-File saved succesfully!
+> File saved succesfully!
 
 ```
 
