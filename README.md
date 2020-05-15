@@ -21,7 +21,7 @@ python3 --version
 ```
 
 
-### Run
+### Usage
 
 Open a terminal in the lineSplitter directory and run
 
