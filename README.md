@@ -2,7 +2,7 @@
 
 ## Overview
 
-This line splitter function saves you the trouble of dealing with one line CSS files by breaking the file into lines and making it more readable.
+This line splitter function saves you the trouble of dealing with minified CSS files by breaking the file into lines and making it more readable.
 
 
 
